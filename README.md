@@ -1,6 +1,6 @@
 printf
 
-A C function that prints formatted out to stdout The printf project is a collaboration by Boluwatife Oladejo and Ayandare Samuel, were a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
+A C function that prints formatted out to stdout The printf project is a collaboration by John Jeremiah and Ayoade Emmanuel Ojomo, were a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
 
 _printf() is a function that performs formatted output conversion and print data. Its prototype is the following:
 
@@ -96,4 +96,4 @@ print_chr.c Function That Writes The Character C To Stdout.
 
 Conclusion of the printf project.
 
-Authors: JOHN JEREMIAH and AYOADE EMMANUEL
+Authors: JOHN JEREMIAH and AYOADE EMMANUEL OJOMO
